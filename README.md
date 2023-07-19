@@ -1,4 +1,4 @@
-### Hello 👋 This is Deepshikha
+<p align="center">### Hello 👋 This is Deepshikha</p>
 
 [![@deepshikha27's Holopin board](https://holopin.me/deepshikha27)](https://holopin.io/@deepshikha27)
 
@@ -12,8 +12,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on various open source projects
 - 💬 Ask me about anything!
 - 😄 Pronouns: she/her
-
-
+### Hacktoberfest 2022
+[![@deepshikha27's Holopin board](https://holopin.me/deepshikha27)](https://holopin.io/@deepshikha27)
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;IoT%20|%20AI%20|%20ML%20Enthusiast;Cloud%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -54,6 +54,4 @@ Here are some ideas to get you started: -->
   
  
  
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepshikha2708&theme=nord&column=7)](https://github.com/deepshikha2708/github-profile-trophy)
