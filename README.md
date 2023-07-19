@@ -35,8 +35,13 @@ Here are some ideas to get you started: -->
 
 ### <b>🔥 Streak Stats:</b>
 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha2708" alt="GitHub Streak" /> <br/><br/>
 
-	
+![Github stats](https://github-readme-stats.vercel.app/api?username=deepshikha2708&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708)
+
+
   
  
  
