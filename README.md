@@ -1,5 +1,8 @@
 
 ### Hello 👋 This is Deepshikha
+
+[![Twitter Badge](https://img.shields.io/badge/-DeepshikhaDas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Deepshi30973893)](https://twitter.com/Deepshi30973893) 
+[![Linkedin Badge](https://img.shields.io/badge/-DeepshikhaDas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepshikha-das-91b7a5209/)](https://www.linkedin.com/in/deepshikha-das-91b7a5209/) 
 <!--
 **deepshikha2708/deepshikha2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,12 +14,8 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything!
 - 😄 Pronouns: she/her
   
-### Hacktoberfest 2022
+### Hacktoberfest 2022 Achievements
 [![@deepshikha27's Holopin board](https://holopin.me/deepshikha27)](https://holopin.io/@deepshikha27)
-
-
-[![Twitter Badge](https://img.shields.io/badge/-DeepshikhaDas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Deepshi30973893)](https://twitter.com/Deepshi30973893) 
-[![Linkedin Badge](https://img.shields.io/badge/-DeepshikhaDas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepshikha-das-91b7a5209/)](https://www.linkedin.com/in/deepshikha-das-91b7a5209/) 
 
 ## 🔧 Technologies & Tools
 
@@ -42,10 +41,10 @@ Here are some ideas to get you started: -->
 ### <b>💻 GitHub Stats:</b>
   <br/>
   <p align="center">
-    <a href="https://github.com/deepshikha2708"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepshikha2708&show_icons=true&locale=en&theme=algolia" alt="deepshikha2708" height="192px"/></a>
+  <a href="https://github.com/deepshikha2708"><img align="center" src="https://githubreadmestats.vercel.app/apiusername=deepshikha2708&show_icons=true&locale=en&theme=algolia" alt="deepshikha2708" height="192px"/></a>
 	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshikha2708&show_icons=true&locale=en&layout=compact&theme=algolia" alt="deepshikha2708" height="192px"/>
+  <p  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshikha2708&show_icons=true&locale=en&layout=compact&theme=algolia" alt="deepshikha2708" height="192px"/>
 	</p>
   <br/>
   
