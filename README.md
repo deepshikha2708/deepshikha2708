@@ -35,18 +35,8 @@ Here are some ideas to get you started: -->
 
 ### <b>🔥 Streak Stats:</b>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha2708&theme=algolia" alt="deepshikha2708" /></p>
 
-
-### <b>💻 GitHub Stats:</b>
-  <br/>
-  <p align="center">
-  <a href="https://github.com/deepshikha2708"><img align="center" src="https://githubreadmestats.vercel.app/apiusername=deepshikha2708&show_icons=true&locale=en&theme=algolia" alt="deepshikha2708" height="192px"/></a>
-	</p>
-  <p  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshikha2708&show_icons=true&locale=en&layout=compact&theme=algolia" alt="deepshikha2708" height="192px"/>
-	</p>
-  <br/>
+	
   
  
  
