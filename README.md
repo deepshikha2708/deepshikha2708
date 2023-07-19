@@ -34,14 +34,14 @@ Here are some ideas to get you started: -->
 ## 📊 Github Stats 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=deepshikha2708&show_icons=true&include_all_commits=true&theme=highcontrast" alt="GitHub Streak" /> <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha2708&show_icons=true&include_all_commits=true&theme=highcontrast" alt="GitHub-Streak" /> <br/><br/>
 </p>
 
   <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=deepshikha2708&theme=highcontrast&show_icons=true&count_private=true" alt="My GitHub Stats" /> <br/><br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708&layout=compacttheme=highcontrast" alt="Top languages used" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708&layout=compact&theme=highcontras" alt="Top languages used" /> <br/><br/>
   
  
  
