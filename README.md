@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
       <img src="https://github-readme-stats.vercel.app/api?username=deepshikha2708&theme=highcontrast&show_icons=true&count_private=true" alt="My GitHub Stats" /> <br/><br/>
 
 <p align="center">
-    <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708" alt="Top languages used" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708" alt="Top languages used" /> <br/><br/>
   
  
  
