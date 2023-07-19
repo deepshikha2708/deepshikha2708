@@ -38,15 +38,11 @@ Here are some ideas to get you started: -->
 </p>
 
 <p align="center">
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=deepshikha2708&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=deepshikha2708&theme=lowcontrast&show_icons=true&count_private=true)
 <br/><br/>
 </p>
 <p align="center">
-
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708)
-
 <br/><br/>
 </p>
 
