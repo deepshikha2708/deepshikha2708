@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 
 ## 📊 Github Stats 
 
-### <b>🔥 Streak Stats:</b>
+<p align="center">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha2708" alt="GitHub Streak" /> <br/><br/>
 
@@ -41,6 +41,7 @@ Here are some ideas to get you started: -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708)
 
+</p>
 
   
  
