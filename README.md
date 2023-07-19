@@ -37,17 +37,11 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikha2708" alt="GitHub Streak" /> <br/><br/>
 </p>
 
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=deepshikha2708&show_icons=true&include_all_commits=true&highcontrast" alt="My GitHub Stats" /> <br/><br/>
+
 <p align="center">
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=deepshikha2708&theme=lowcontrast&show_icons=true&count_private=true) <br/><br/>
-</p>
-<p align="center">
-  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708) <br/><br/>
-</p>
-
-
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshikha2708&layout=compact" alt="Top langs" /> <br/><br/>
   
  
  
