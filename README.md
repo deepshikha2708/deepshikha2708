@@ -8,7 +8,6 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as an intern.
 - 🌱 I’m currently pursuing Computer Science and Engineering from SRM Institute of Science and Technology.
 - 👯 I’m looking to collaborate on various open source projects
 - 💬 Ask me about anything!
